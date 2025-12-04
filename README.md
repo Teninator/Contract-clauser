@@ -27,7 +27,9 @@ This project provides a simple pipeline for generating clear, user-friendly disc
 ---
 ## How to set up
 - Run ```pip install -r requirements.txt```
-- Make sure to install the model of your choice, and edit the .env.example and .env file
+- Make sure to install the model of your choice and place it in:
+       ``` path/models/```
+- Edit the .env.example and .env file
 - In the terminal, navigate to the folder where app.py is located:
 
       cd path/to/folder
@@ -149,6 +151,7 @@ python disclosure_generator.py
 
 ###### README Made partly with ChatGPT
 ---
+
 
 
 
