@@ -30,12 +30,12 @@ This project provides a simple pipeline for generating clear, user-friendly disc
 - Make sure to install the model of your choice, and edit the .env.example and .env file
 - In the terminal, navigate to the folder where app.py is located:
 
-      ```cd path/to/folder```
+      cd path/to/folder
 
 
    Then run:
 
-      ```python app.py```
+      python app.py
 
 
 ##  LLM Requirements
@@ -149,5 +149,6 @@ python disclosure_generator.py
 
 ###### README Made partly with ChatGPT
 ---
+
 
 
