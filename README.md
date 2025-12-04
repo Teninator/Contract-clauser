@@ -2,6 +2,10 @@
 
 This project provides a simple pipeline for generating clear, user-friendly disclosure sheets from uploaded contracts. It automatically extracts clauses, groups them, and uses an LLM to generate a human-readable disclosure summary.
 
+
+Live demo 
+https://youtu.be/zEnzHFCzCTg
+
 ---
 
 ##  Overview of the Workflow
@@ -152,6 +156,7 @@ python disclosure_generator.py
 
 ###### README Made partly with ChatGPT
 ---
+
 
 
 
