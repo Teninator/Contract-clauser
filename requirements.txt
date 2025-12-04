@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pdfminer.six
+python-dotenv
+python-docx
+ollama
+pydantic
+requests
+ttkbootstrap==1.10.1
+pillow==11.0.0
+customtkinter
+PyPDF2
